@@ -19,7 +19,6 @@ delay(void)
 	inb(0x84);
 	inb(0x84);
 	inb(0x84);
-	inb(0x84);
 }
 
 /***** Serial I/O code *****/
